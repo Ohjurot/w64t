@@ -1,0 +1,9 @@
+# Binary output
+/build
+
+# Visual studio project
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+/.vs
