@@ -30,4 +30,5 @@
 
 // This header will just auto include all other headers
 #include "Dialogs/DialogBase.h"
+#include "Dialogs/MsgBox.h"
 

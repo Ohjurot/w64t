@@ -43,7 +43,9 @@ namespace w64t::dialogs
         Cancle,
         Abort,
         Retry,
+        TryAgain,
         Ignore,
+        Continue,
     };
 
     // Icon of the dialog
@@ -70,7 +72,9 @@ namespace w64t::dialogs
         Cancle,
         Abort,
         Retry,
+        TryAgain,
         Ignore,
+        Continue,
     };
 
     // Set of buttons
